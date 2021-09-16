@@ -1,0 +1,10 @@
+admin
+administrator
+root
+camila
+dev
+ti
+ricardo
+pentest
+desec
+www-data
